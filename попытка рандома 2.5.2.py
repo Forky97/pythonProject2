@@ -30,6 +30,7 @@ try:
     browser.execute_script('window.scrollBy(0, 300);')
     time.sleep(100)
     browser.switch_to.alert
+    print('test222222')
 
 
 
