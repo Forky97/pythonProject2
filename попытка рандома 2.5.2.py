@@ -17,6 +17,7 @@ try:
 
     em=browser.find_element(By.ID,'id_login_email')
     em.send_keys('crzssssss')
+    print('isdfjsdnfisdifnsdifnisdjfoi')
 
     par=browser.find_element(By.ID,'id_login_password')
     par.send_keys('zzz')
