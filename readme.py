@@ -9,3 +9,10 @@ class Git_start :
 
 cris = Git_start('cris')
 cris.privet()
+
+########### add 2 objects ##########
+
+edic = Git_start('edic')
+vlad = Git_start('vlad')  
+
+
