@@ -17,3 +17,5 @@ vlad = Git_start('vlad')
 edic.privet()
 vlad.privet()
 
+one two
+
