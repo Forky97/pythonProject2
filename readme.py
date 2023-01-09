@@ -13,9 +13,9 @@ cris.privet()
 ########### add 2 objects ##########
 
 edic = Git_start('edic')
-vlad = Git_start('vlad')  
+vlad = Git_start('vlad')
+bily = Git_start('billy') 
 edic.privet()
 vlad.privet()
-
-one two
+billy.privet()
 
