@@ -1,3 +1,10 @@
+
+from bs4 import  BeautifulSoup as bs
+import  requests
+from tkinter import *
+
+
+
 class Git_start :
 
     def __init__(self,name=None):
