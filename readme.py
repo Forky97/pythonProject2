@@ -14,5 +14,6 @@ cris.privet()
 
 edic = Git_start('edic')
 vlad = Git_start('vlad')  
-
+edic.privet()
+vlad.privet()
 
